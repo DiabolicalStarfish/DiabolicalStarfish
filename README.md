@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DiabolicalStarfish
+- 👀 I’m interested in just making stuff I suppose
+- 🌱 I’m currently learning how to work with a discord bot
+- 💞️ I’m looking to collaborate on how to make more supporting features of discord bots
