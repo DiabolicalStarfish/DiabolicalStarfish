@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiabolicalStarfish
+- 👋 Hi, I’m Slater
 - 👀 I’m interested in just making stuff I suppose
-- 🌱 I’m currently learning how to work with a discord bot
-- 💞️ I’m looking to collaborate on how to make more supporting features of discord bots
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to glean as much information about coding from as many sources as possible!
